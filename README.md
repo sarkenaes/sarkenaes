@@ -1,6 +1,6 @@
 ## Hi there,I'm Saron Ketema 👋 
 Cyber Operations& Computer Science Student at Dakota State, currently working as a Junior Cybersecurity Analyst at DSU CSOC.
-I'm interested in cybersecurity, software development  and building hands on projects that could develop my skils.
+I'm interested in cybersecurity, software development  and building hands on projects that could develop my skills.
 ### What I'm doing
 -Supporting Security monitoring and incident analysis at DSU CSOC
 -Working on small Python and security related projects.
