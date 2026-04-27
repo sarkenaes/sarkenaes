@@ -2,12 +2,12 @@
 Cyber Operations& Computer Science Student at Dakota State, currently working as a Junior Cybersecurity Analyst at DSU CSOC.
 I'm interested in cybersecurity, software development  and building hands on projects that could develop my skills.
 ### What I'm doing
--Working at the SOC as a cybersecurity analyst, using tools like Microsoft defender abd Elastic SIEM  for threat detection and incident analysis. </br>
+-Working at the SOC as a cybersecurity analyst, using tools like Microsoft defender and Elastic SIEM  for threat detection and incident analysis. </br>
 -Working on small Python and security related projects.</br>
 -Solving CTF challenges like PicoCTF, NCL and Meta CTF  to improve security skills.
 ### Tools & Languages
-Python • C++ • Bash  
-Wireshark • Nmap • Git  
+Python    • C++   • Bash  
+Wireshark • Nmap   • Git  
 ### Contact
 -LinkedIn : www.linkedin.com/in/saron-ketema-nigussie-655856269 
 </br>
