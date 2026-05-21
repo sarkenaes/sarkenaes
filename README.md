@@ -9,7 +9,7 @@ I'm interested in cybersecurity, software development  and building hands on pro
 Python    • C++   • Bash  
 Wireshark • Nmap   • Git  
 ### Contact
--LinkedIn : www.linkedin.com/in/saron-ketema-nigussie-655856269 
+-LinkedIn : www.linkedin.com/in/saron-nigussie-655856269
 </br>
 
 
