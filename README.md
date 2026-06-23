@@ -1,4 +1,4 @@
-###  Hi, I'm Saron Ketema Nigussie 👋
+### Hi, I'm Saron Ketema Nigussie 👋
 
 I'm a Cyber Operations and Computer Science student at Dakota State University and a Junior Cybersecurity Analyst at the DSU Cybersecurity Operations Center.
 
