@@ -23,7 +23,7 @@ A Flask application demonstrating password-strength analysis, breach checking, e
 
 ## Technologies
 
-**Languages:** Python, C, C++, Bash, JavaScript  
+**Languages:** Python, C, JavaScript  
 **Security:** Microsoft Defender, Elastic SIEM, Wireshark, Nmap  
 **Development:** Flask, React, Docker, SQLite, Git
 
