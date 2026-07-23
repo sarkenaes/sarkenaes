@@ -12,8 +12,6 @@ A full-stack security monitoring platform that ingests Linux authentication logs
 ### File Integrity Monitor
 A Linux tool written in C that uses SHA-256, SQLite, and inotify to detect unauthorized file changes in real time.
 
-### Secure Password Manager
-A Flask application demonstrating password-strength analysis, breach checking, encryption, and credential storage.
 
 ## Currently
 
